@@ -1,0 +1,174 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "name": "Beyaz Eşya"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "name": "Telefon"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "name": "Küçük Ev Aletleri"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "name": "Züccaciye"
+    },
+    {
+      "id": 6,
+      "title": "json-server",
+      "name": "Temizlik"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "name": "Gıda"
+    },
+    {
+      "id": 8,
+      "title": "json-server",
+      "name": "Giyim"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Buzdolabı2"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "Samsung Galaxy S10"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "IPhone X"
+    },
+    {
+      "id": 4,
+      "categoryId": 5,
+      "name": "Tencere"
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "name": "Acer Aspire v3571G Notebook"
+    },
+    {
+      "id": 6,
+      "categoryId": 8,
+      "name": "Erkek Ceket"
+    },
+    {
+      "id": 7,
+      "categoryId": 8,
+      "name": "Spor Ayakkabı"
+    },
+    {
+      "id": 8,
+      "categoryId": 7,
+      "name": "Çay"
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "name": "Deterjan"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "name": "Samsung Galaxy S11"
+    },
+    {
+      "id": 11,
+      "categoryId": 8,
+      "name": "Forma"
+    },
+    {
+      "id": 12,
+      "categoryId": 8,
+      "name": "Krampon"
+    },
+    {
+      "id": 13,
+      "categoryId": 4,
+      "name": "HP 256GB Notebook"
+    },
+    {
+      "id": 14,
+      "categoryId": 7,
+      "name": "Ekmek"
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "name": "Blender"
+    },
+    {
+      "name": "Kitap",
+      "categoryId": 7,
+      "id": 16
+    },
+    {
+      "name": "XS QXYWDT Mavisi",
+      "categoryId": 2,
+      "id": 17
+    },
+    {
+      "name": "Zurna",
+      "categoryId": 7,
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "mustafa": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "surname": "test"
+  }
+}
